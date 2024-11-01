@@ -1,0 +1,71 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Tao One Time Offer\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: Fri Jul 08 2016 11:58:45 GMT+0200 (Środkowoeuropejski "
+"czas letni)\n"
+"PO-Revision-Date: Fri Jul 08 2016 12:04:42 GMT+0200 (Środkowoeuropejski czas "
+"letni)\n"
+"Last-Translator: admin <michal@upclick.pl>\n"
+"Language-Team: \n"
+"Language: Polish\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10 >= 2 && n%10<=4 "
+"&&(n%100<10||n%100 >= 20)? 1 : 2)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
+"esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Loco-Target-Locale: pl_PL\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#. Name of the plugin
+msgid "WP Tao One Time Offer"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://wordpress.org/plugins/wp-tao-one-time-offer"
+msgstr ""
+
+#. Description of the plugin
+msgid "The plugin givs you ability to set any page as OTO."
+msgstr "Wtyczka pozwala na ustawienie dowolnej strony jako jednorazowej oferty (OTO)"
+
+#. Author of the plugin
+msgid "WP Tao Co."
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://wptao.org"
+msgstr ""
+
+#: ../includes/admin/class-metabox.php:11
+msgid "WP Tao OTO"
+msgstr ""
+
+#: ../includes/admin/class-metabox.php:18
+msgid "URL"
+msgstr ""
+
+#: ../includes/admin/class-metabox.php:20
+msgid ""
+"Eneter URL wher user should be redirected when try to see page again. Leave "
+"empty for OTO disabled"
+msgstr ""
+"Wisz adres URL strony, na którą użytkownik zostanie przekierowany, gdy "
+"próbuje wyświetlić stronę ponownie (widział już jednorazową ofertę). "
+"Pozostaw puste, aby nie włączać jednorazowej oferty."
+
+#: ../wp-tao-one-time-offer.php:108
+msgid ""
+"<b>WP Tao One Time Offer</b>: please install <a href=\"http://wptao.org\">WP "
+"Tao</a>."
+msgstr ""
+"<b>WP Tao One Time Offer</b>: zainstaluj<a href=\"http://wptao.org\">WP "
+"Tao</a>."
